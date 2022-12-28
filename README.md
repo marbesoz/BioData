@@ -1,5 +1,5 @@
 # Biomed
-Dati per statistica biomedica
+Dati per statistica biomedica con R
 
 Dati impiegati come esempi nel laboratorio di analisi cliniche
 
